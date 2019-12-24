@@ -3,7 +3,7 @@ discord.py[voice] == 1.2.5
 gtts
 PyGithub
 pyssml
-pywin32 == 227
+pywin32
 gspread
 oauth2client
 PyOpenSSL
